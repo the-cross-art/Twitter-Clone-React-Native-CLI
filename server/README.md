@@ -1,9 +1,8 @@
-# Hub-Edu Backend
+# Twitter Backend
 
-Backend of Hub-Edu
+Backend of Twitter
 
 ## Tech Stack
 
 - Backend: Express, NodeJS
 - Database: MongoDB
-
