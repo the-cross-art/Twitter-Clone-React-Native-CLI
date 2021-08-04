@@ -1,0 +1,13 @@
+export const CONTACT_LIST = 'Home';
+export const CONTACT_DETAIL = 'Contact detail';
+export const CREATE_CONTACT = 'Create Tweet';
+export const SETTINGS = 'Settings';
+export const LOGIN = 'Login';
+export const REGISTER = 'Register';
+export const HOME_NAVIGATOR = 'Home';
+export const LOGOUT = 'LOGOUT';
+export const LOGINOTP = 'LOGINOTP';
+export const VERIFY = 'VERIFY';
+export const USERLIST = 'USERLIST';
+export const USERCHAT = 'USERCHAT';
+export const MESSAGE = 'MESSAGE';
