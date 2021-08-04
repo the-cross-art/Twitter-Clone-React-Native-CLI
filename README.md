@@ -1,8 +1,8 @@
 <p float="left">
-    <img src="https://user-images.githubusercontent.com/63959831/128141775-b94bc65a-a25c-4d11-9c93-20c4717d3720.jpeg" width="100"/>
-    <img src="https://user-images.githubusercontent.com/63959831/128141777-2c504dc0-9155-416e-9981-c89a5da2b89e.jpeg" width="80"/>
-    <img src="https://user-images.githubusercontent.com/63959831/128141767-130d45e9-49dc-40b6-9c86-2baf90c6ae9f.jpeg" width="80"/>
-    <img src="https://user-images.githubusercontent.com/63959831/128141772-ba52a80a-c795-42e6-a7c0-57a5452454f1.jpeg" width="100"/>
+    <img src="https://user-images.githubusercontent.com/63959831/128141775-b94bc65a-a25c-4d11-9c93-20c4717d3720.jpeg" width="150"/>
+    <img src="https://user-images.githubusercontent.com/63959831/128141777-2c504dc0-9155-416e-9981-c89a5da2b89e.jpeg" width="150"/>
+    <img src="https://user-images.githubusercontent.com/63959831/128141767-130d45e9-49dc-40b6-9c86-2baf90c6ae9f.jpeg" width="150"/>
+    <img src="https://user-images.githubusercontent.com/63959831/128141772-ba52a80a-c795-42e6-a7c0-57a5452454f1.jpeg" width="150"/>
     
 </a>
 
